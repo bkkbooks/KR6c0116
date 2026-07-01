@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0116/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經科儀
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1494.xml
+    old_id: X74n1494
+hash: sha256:bbee7f1b09a0e2a3956ba7ec98afa1b0105192f50c2125e8e754eca53c6a1880
